@@ -6,4 +6,4 @@
 
 #### Here are some other things I like ---> 🏄 ⚽ 🏈 🎸 👷 🌱
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/micah-swain)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](http://www.linkedin.com/in/micah-swain)  
